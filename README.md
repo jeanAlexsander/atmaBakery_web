@@ -5,11 +5,10 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
-## TUBES P3L
-## Anggota :
-    - Jean Alexsander Caesar
-    - Gloria Estefania Yaspis
-    - Martinus Bagas Billy
+<p>Anggota :</p>    
+    <p>- Jean Alexsander Caesar</p>
+    <p>- Gloria Estefania Yaspis</p>
+    <p>- Martinus Bagas Billy</p>
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
